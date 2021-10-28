@@ -1,0 +1,7 @@
+5 lexemes present
+1 keywords present
+1 identifiers present
+1 integers present
+0 fractions present
+2 operators present
+
