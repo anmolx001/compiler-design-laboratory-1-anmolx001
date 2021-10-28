@@ -2,7 +2,7 @@
 
 | Sr. No. | Description | Date | Source Code | Output |
 | :--: | :---- | :--: | :--: | :--: |
-| 1. | Write a program to recognize strings with numbers or alphabets | 07/08/2021 | [Link](./recognizeDigits_Alphabets/recognizeDigits_Alphabets.l) | [Link](./recognizeDigits_Alphabets/output.png)
+| 1. | Write a program to recognize strings with numbers or alphabets | 07/08/2021 | [Link](./recognizeDigits_Alphabets/recognizeDigits_Alphabets.l) | [Link](./recognizeDigits_Alphabets/Output.png)
 
 [Link to Lab2](../Lab2)
 
@@ -10,7 +10,7 @@
 
 1. WAP to recognize strings with numbers or alphabets.</br> Date - 07/08/2021 </br>
    [Source Code](./recognizeDigits_Alphabets/recognizeDigits_Alphabets.l) <br>
-   [Output](./recognizeDigits_Alphabets/output.png) <br>
+   [Output](./recognizeDigits_Alphabets/Output.png) <br>
     Sample Input :
     ```txt
     7654321
