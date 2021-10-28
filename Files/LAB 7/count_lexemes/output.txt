@@ -1,7 +1,0 @@
-1 lexemes present
-0 keywords present
-1 identifiers present
-0 integers present
-0 fractions present
-0 operators present
-
