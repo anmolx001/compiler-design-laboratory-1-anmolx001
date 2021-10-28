@@ -16,11 +16,11 @@
 
 | Sr. No. | Description | Date | Folder |
 | :--: | :---- | :--: | :--: |
-| 1. | Lab 1 | 07/08/2021 | [Link](./Files/Lab1) |
-| 2. | Lab 2 | 13/08/2021 | [Link](./Files/Lab2) |
-| 3. | Lab 3 | 20/08/2021 | [Link](./Files/Lab3) |
-| 4. | Lab 4 | 27/08/2021 | [Link](./Files/Lab4) |
-| 5. | Lab 5 | 03/09/2021 | [Link](./Files/Lab5) |
-| 6. | Lab 6 | 10/09/2021 | [Link](./Files/Lab6) |
-| 7. | Lab 7 | 17/09/2021 | [Link](./Files/Lab7) |
+| 1. | Lab 1 | 07/08/2021 | [Link](./Files/Lab 1) |
+| 2. | Lab 2 | 13/08/2021 | [Link](./Files/Lab 2) |
+| 3. | Lab 3 | 20/08/2021 | [Link](./Files/Lab 3) |
+| 4. | Lab 4 | 27/08/2021 | [Link](./Files/Lab 4) |
+| 5. | Lab 5 | 03/09/2021 | [Link](./Files/Lab 5) |
+| 6. | Lab 6 | 10/09/2021 | [Link](./Files/Lab 6) |
+| 7. | Lab 7 | 17/09/2021 | [Link](./Files/Lab 7) |
 © 2021 GitHub, Inc.
