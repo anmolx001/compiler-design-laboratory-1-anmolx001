@@ -31,9 +31,9 @@ No. of operators=2
 ```
 
 2. Write a program to verify valid url or not. <br>
-       Date - 03/09/2021 <br>
-       [Source Code](./valid_url/valid_url.l)
-       [Output](./valid_url/output.PNG)<br>
+      Date - 03/09/2021 </br>
+       [Source Code](./valid_url/valid_url.l)<br>
+       [Output](./valid_url/Output.PNG)<br>
 
 Sample Input:
 ```
