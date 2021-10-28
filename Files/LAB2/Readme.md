@@ -56,7 +56,7 @@
 3. Write a program to recognize whether string contain only uppercase, lowercase or both letters.</br>
    Date - 13/08/2021 </br>
    [Source Code](./lowerCaseUpperCase/lowerCaseUpperCase.l) <br>
-   [Output](./lowerCaseUpperCase/Output.png)<br>
+   [Output](./lowerCaseUpperCase/Output.PNG)<br>
     Sample Input:
     ```txt
     ANMOL
